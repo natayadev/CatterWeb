@@ -1,2 +1,4 @@
-Práctica:
-Ejercicio de una página similar a cierta red social (con Bootstrap 4)
+Página similar a cierta red social:<br>
+-Práctica<br>
+-Parodia a Twitter<br>
+-Bootstrap 4<br>
